@@ -1,0 +1,15 @@
+/*===GLOBAL===*/
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: $font-stack; 
+    background-color: $teritiary-color; 
+}
+
+.wrapper {
+    max-width: 960px;
+    margin: 0, auto; 
+}
